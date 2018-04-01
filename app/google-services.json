@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "612524928911",
+    "firebase_url": "https://harrymodul6.firebaseio.com",
+    "project_id": "harrymodul6",
+    "storage_bucket": "harrymodul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612524928911:android:1bf453242b2030f0",
+        "android_client_info": {
+          "package_name": "com.example.harry.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612524928911-ef45h0ueodbke713pdthanjig9lo2rlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harry.myapplication",
+            "certificate_hash": "9fb259958278baa63f1a2ebee876cbc82cc64b38"
+          }
+        },
+        {
+          "client_id": "612524928911-1ikghmbvtiv5u7e32h6alq25eu9tsaso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBxTlwKYZyz29LLcYndvp81qJhERPZxRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612524928911-1ikghmbvtiv5u7e32h6alq25eu9tsaso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
